@@ -1,2 +1,1 @@
-# webpack
-learn webpack
+# 关于webpack-dev-server,loader,plugin的简单使用
